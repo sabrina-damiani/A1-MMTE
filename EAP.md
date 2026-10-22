@@ -9,5 +9,5 @@
     1.3.1 API de pedidos
     1.3.2 Telas do aplicativo
   1.4 Entrega
-    1.4.1 Aprovar o plano de testes
+    1.4.1 Plano de testes
     1.4.2 Pacote de implantação
